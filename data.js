@@ -75,7 +75,7 @@ const shortHandProblems = [
     "5": "changeFoo(caw caw)"
    }],
    },
-   {"prompt": "Pseudocode through the process of toggling the foo value from baz to bar.",
+   {"prompt": "Return the following array as a string of uppercase letters",
     "template": "foo = baz? \n changeFoo(bar) \n foo = bar? \n changeFoo(baz) \n changeFoo(caw caw)",
    "id": 5, 
    "Answers": [{
